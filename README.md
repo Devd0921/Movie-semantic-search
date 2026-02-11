@@ -8,7 +8,7 @@ This project demonstrates how Natural Language Processing (NLP) can identify "hi
 * **Mathematical Similarity:** Implemented **Cosine Distance** calculations to perform "Zero-Shot" searches—identifying movies with "Romance" themes even if they aren't labeled as such.
 
 ## 📊 Visualization
-![Movie Semantic Map](tsne_visualization.png)
+![Movie Semantic Map](t-SNE-visualization-output.png)
 *The t-SNE plot reveals how the AI clusters sci-fi films like 'Inception' and 'The Matrix' based on narrative structure rather than release date.*
 
 ## 🛠️ Tech Stack
